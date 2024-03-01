@@ -12,7 +12,7 @@ function Navbar() {
             <div className="navbar ">
                 <ul className='m-auto flex'>
                     <li className='p-2.5'>
-                        <Link to="/">Home</Link>
+                        <Link to="/">Home Home</Link>
                     </li>
                     <li className='p-2.5'>
                         <Link to="/about">About</Link>
